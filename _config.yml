@@ -2,6 +2,8 @@ title: "Nightmarlin's stuff"
 author: "Nightmarlin"
 description: "A place for me to talk about whatever I want to"
 
+mathjax: true # Sets mathjax to true on all pages
+
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
 paginate: 2                  # number of articles per page, remove to disable pagination
