@@ -1,8 +1,8 @@
-```
+---
 title: print("Hello World");
 mathjax: true
 categories: General
-```
+---
 
 Hello and welcome to my new blog!
 It's built on [Contrast](https://niklasbuschmann.github.io/contrast) by Niklas Buschman.
@@ -11,8 +11,7 @@ This theme has loads of nice features, including:
 
 * Code Highlighting
 
-{% highlight c-sharp %} 
-
+{% highlight cs %} 
 // Static because there's only one of me
 public static class Nightmarlin() {
     
@@ -26,7 +25,6 @@ public static class Nightmarlin() {
     }
     
 }
-
 {% endhighlight %}
 
 * MathJax

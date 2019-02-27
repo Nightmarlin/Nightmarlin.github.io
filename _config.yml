@@ -26,6 +26,7 @@ icons:                       # (optional) icons in the header, see http://fontaw
   envelope: "mailto:lmiller81694@gmail.com"
   github: "https://github.com/Nightmarlin"
   desktop: "https://lwmiller.co.uk"
+  rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
