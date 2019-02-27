@@ -12,17 +12,28 @@ This theme has loads of nice features, including:
 * Code Highlighting
 
 {% highlight cs %} 
-// Static because there's only one of me
-public static class Nightmarlin() {
+using System;
+using System.IO;
+
+public bool SaveString(string ToSave) {
+
+    Console.Write("Enter a path ==> ");
     
-    // We're not going to get very far
-    public static void Main() {
+    var Path = Console.ReadLine();
     
-        Console.WriteLine("This is going to be fun");
+    try {
+    
+        File.WriteAllText(Path, ToSave);
         
-        Procrastinate().GetAwaiter().GetResult();
+    } catch (IOException Ex) {
+    
+        Console.Writeline($"Unable to save. Error follows{Environment.NewLine}{Ex}");
+        
+        return false;
         
     }
+    
+    return true;
     
 }
 {% endhighlight %}
