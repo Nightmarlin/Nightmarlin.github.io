@@ -9,6 +9,8 @@ It's built on [Contrast](https://niklasbuschmann.github.io/contrast) by Niklas B
 
 This theme has loads of nice features, including:
 
+-----
+
 * Code Highlighting
 
 {% highlight cs %} 
@@ -38,15 +40,22 @@ public bool SaveString(string ToSave) {
 }
 {% endhighlight %}
 
+-----
+
 * MathJax
 
 $$ \int{\left(\frac{1}{x-1}\right)} = \ln{\left|x-1\right|} + c, x > 1 $$  
-$$ x_{n+1} = x_{n} - \frac{f\left(x_{n}\right)}{f`\left(x_{n}\right)}$$
+$$ x_{n+1} = x_{n} - \frac{f\left(x_{n}\right)}{f`\left(x_{n}\right)}$$  
+$$
+
+-----
 
 * Images
 
 ![Image1](/assets/images/aegislash_shield.png)
 [Aegislash](https://wallpapercave.com/aegislash-wallpapers) - Found on Wallpaper Cave
+
+-----
 
 * Embeds
 
@@ -54,6 +63,8 @@ $$ x_{n+1} = x_{n} - \frac{f\left(x_{n}\right)}{f`\left(x_{n}\right)}$$
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYJx5xt2cB0" frameborder="0" allow="accelerometer;
 autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+-----
 
 * Super-sized images
 
