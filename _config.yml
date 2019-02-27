@@ -25,7 +25,7 @@ navigation:                  # (optional) site navigation in the header
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:lmiller81694@gmail.com"
   github: "https://github.com/Nightmarlin"
-  rss: "/feed.xml"
+  desktop: "https://lwmiller.co.uk"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
