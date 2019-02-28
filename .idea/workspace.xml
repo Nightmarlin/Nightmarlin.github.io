@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ceea06-6ce0-475d-8c90-e6c62bf93fb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="3" selection-end-column="3" />
+              <first_editor relative-caret-position="81">
+                <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+              <first_editor relative-caret-position="527">
+                <caret line="119" column="12" lean-forward="true" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,6 +75,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$ \aleph $</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,6 +93,7 @@
         <option value="$PROJECT_DIR$/404.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-27-Hello-World.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-28-Nullables-Threads-And-Executables.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" />
       </list>
     </option>
@@ -172,12 +180,12 @@
       <workItem from="1551343862967" duration="1723000" />
       <workItem from="1551361921772" duration="903000" />
       <workItem from="1551379007776" duration="6558000" />
-      <workItem from="1551388384975" duration="191000" />
+      <workItem from="1551388384975" duration="383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16334000" />
+    <option name="totallyTimeSpent" value="16526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1974" y="1" width="1874" height="1096" extended-state="6" />
@@ -261,8 +269,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="3" selection-end-column="3" />
+          <first_editor relative-caret-position="81">
+            <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           </first_editor>
           <second_editor />
         </state>
@@ -271,8 +279,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <first_editor relative-caret-position="527">
+            <caret line="119" column="12" lean-forward="true" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>

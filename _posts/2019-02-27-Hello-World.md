@@ -60,7 +60,7 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 
 #### &#9632; Super-sized images
 
-<a class="large" href="/assets/images/raindrops.jpeg">[Raindrops](/assets/images/raindrops.jpeg)</a>
+<a class="large" href="/assets/images/raindrops.jpeg"><!--[Raindrops](/assets/images/raindrops.jpeg)--></a>
 [Raindrops](/assets/images/raindrops.jpeg) - Found somewhere
 
 #### &#9632; General Markdown
