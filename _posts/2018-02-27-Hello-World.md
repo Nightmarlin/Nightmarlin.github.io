@@ -45,8 +45,8 @@ public bool SaveString(string ToSave) {
 * MathJax
 
 $$ \int{\left(\frac{1}{x-1}\right)} = \ln{\left|x-1\right|} + c, x > 1 $$  
+
 $$ x_{n+1} = x_{n} - \frac{f\left(x_{n}\right)}{f`\left(x_{n}\right)}$$  
-$$
 
 -----
 
@@ -68,9 +68,26 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 
 * Super-sized images
 
-<a class="large" href="/assets/images/raindrops.jpeg">
+<a class="large" href="/assets/images/raindrops.jpeg"></a>
 ![Raindrops](https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg)
-</a>
+
+
+-----
+
+This site is built on Jekyll, so it supports markdown syntax such as *italics*, ~~strike\-through~~ and **bold** text,
+as well as `Keyboard Shortcuts` and
+
+```xml
+<CodeBlock> 
+    <MarkdownHighlighting>
+        this.
+    </MarkdownHighlighting>
+</CodeBlock>
+``` 
+
+But I'll probably just use the code blocks from earlier because they look nicer.
+
+Markdown
 
 I think it'll be a pleasure working with these to create something fun, even if I'm likely to be the only person using
 it.
