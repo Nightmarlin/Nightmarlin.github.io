@@ -69,7 +69,7 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 * Super-sized images
 
 <a class="large" href="/assets/images/raindrops.jpeg">![Raindrops](/assets/images/raindrops.jpeg)</a>
-![Raindrops](/assets/images/raindrops.jpeg)
+[Raindrops](/assets/images/raindrops.jpeg) - Found somewhere
 
 -----
 
