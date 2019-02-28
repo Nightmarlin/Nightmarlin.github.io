@@ -29,15 +29,15 @@ effective.
 
 ## The Problem
 
-> B: Hey $\aleph$ightmarlin, I've got a problem  
-> $\aleph$: Yeah what is it  
+> B: Hey $ \aleph $ightmarlin, I've got a problem  
+> $ \aleph $: Yeah what is it  
 > B: So I want to add a ListBox and some buttons to a form, and then hook the events on so that it adds
 whatever is saved in a variable to the ListBox.  
-> $\aleph$: Sounds simple enough  
+> $ \aleph $: Sounds simple enough  
 > B: But I haven't really used OOP in my project. At all.  
-> $\aleph$: Well it can't be that bad... Can it?  
+> $ \aleph $: Well it can't be that bad... Can it?  
 > B: And my project is in VB  
-> $\aleph$: ***dead***
+> $ \aleph $: ***dead***
 
 ## The solution
 
@@ -116,7 +116,7 @@ public partial class Form1 : Form {
 I also added a text box called `TxtToAdd`, this is where we will get the input from (simulating B's program)
 
 > B: Wait what does all this do  
-> $\aleph$: So it's basically what you've written so far, but done in 10 minutes by me.  
+> $ \aleph $: So it's basically what you've written so far, but done in 10 minutes by me.  
 > B: Ok then
 
 ### Solving the problem
@@ -183,4 +183,4 @@ accident, as I had been working on my coursework the night before and that funct
 I'm quite proud of this little bit of code, mostly because of how fast I produced it. But also because I was
 able to work with someone to make something work, which is a really good feeling no matter what.
 
-&#9472; $\aleph$
+&#9472; $ \aleph $
