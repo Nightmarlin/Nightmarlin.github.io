@@ -68,7 +68,7 @@ autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifra
 
 * Super-sized images
 
-<a class="large"><!--href="/assets/images/raindrops.jpeg"-->
+<a class="large" href="/assets/images/raindrops.jpeg">
 ![Raindrops](https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg)
 </a>
 
