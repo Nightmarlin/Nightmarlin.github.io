@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ceea06-6ce0-475d-8c90-e6c62bf93fb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/choc8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/choc8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-28-Nullables-Threads-And-Executables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,7 +66,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="734">
-                <caret line="44" column="12" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+                <caret line="184" column="16" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="184" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,12 +172,12 @@
       <workItem from="1551310219457" duration="1229000" />
       <workItem from="1551343862967" duration="1723000" />
       <workItem from="1551361921772" duration="903000" />
-      <workItem from="1551379007776" duration="1982000" />
+      <workItem from="1551379007776" duration="6558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11567000" />
+    <option name="totallyTimeSpent" value="16143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1974" y="1" width="1874" height="1096" extended-state="6" />
@@ -274,7 +272,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="734">
-            <caret line="44" column="12" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+            <caret line="184" column="16" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="184" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
