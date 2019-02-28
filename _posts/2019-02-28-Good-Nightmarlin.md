@@ -1,6 +1,7 @@
 ---
 title: Good Nightmarlin   
 categories: Programming
+mathjax: true
 ---
 
 # Good Nightmarlin
@@ -151,9 +152,9 @@ lead me to an easy way to cast, and from there it was smooth sailing.
 {% highlight vb %}
 
     Private Sub addlist()
-        ...
+        '...
         AddHandler additembutton.Click, AddressOf AddButtonsOnClicked
-        ...
+        '...
     End Sub
 
     Private Sub AddButtonsOnClicked(ByVal S As Object, ByVal E As EventArgs) { 
@@ -162,14 +163,14 @@ lead me to an easy way to cast, and from there it was smooth sailing.
         End If
         Dim B As Button = S
         
-        Dim C = B.Parent.GetChildAtPoint(new Point(B.Location.X + 5, B.Location.Y - 10));
+        Dim C = B.Parent.GetChildAtPoint(new Point(B.Location.X + 5, B.Location.Y - 10))
         
         If Not TypeOf C is ListBox Then
             Return
         End If
         Dim LstBx As Button = C
         
-        LstBx.Items.Add(TxtToAdd.Text);
+        LstBx.Items.Add(TxtToAdd.Text)
         
     }
 
