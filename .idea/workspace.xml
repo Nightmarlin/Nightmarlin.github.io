@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ceea06-6ce0-475d-8c90-e6c62bf93fb9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-27-Hello-World.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md" afterDir="false" />
-    </list>
+    <list default="true" id="c9ceea06-6ce0-475d-8c90-e6c62bf93fb9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -66,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="527">
+              <first_editor relative-caret-position="-784">
                 <caret line="119" column="12" lean-forward="true" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
               </first_editor>
               <second_editor />
@@ -141,7 +137,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Resume/resume-template" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -180,16 +176,15 @@
       <workItem from="1551343862967" duration="1723000" />
       <workItem from="1551361921772" duration="903000" />
       <workItem from="1551379007776" duration="6558000" />
-      <workItem from="1551388384975" duration="383000" />
+      <workItem from="1551388384975" duration="723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16526000" />
+    <option name="totallyTimeSpent" value="16866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1974" y="1" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16394335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -279,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-Good-Nightmarlin.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
+          <first_editor relative-caret-position="-784">
             <caret line="119" column="12" lean-forward="true" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
           </first_editor>
           <second_editor />

@@ -5,46 +5,46 @@ categories: General
 
 # Hello and welcome to my new blog!
 
-It's built on [Contrast](https://niklasbuschmann.github.io/contrast) by Niklas Buschman.  
+It's built on [Contrast](https://niklasbuschmann.github.io/contrast) by Niklas Buschman.
 
-I'm still fiddling so things might break spontaneously, but 
+I'm still fiddling so things might break spontaneously, but
 
 This theme has loads of nice features, including:
 
 #### &#9632; Code Highlighting
 
-{% highlight cs %} 
+{% highlight cs %}
 using System;
 using System.IO;
 
 public bool SaveString(string ToSave) {
 
     Console.Write("Enter a path ==> ");
-    
+
     var Path = Console.ReadLine();
-    
+
     try {
-    
+
         File.WriteAllText(Path, ToSave);
-        
+
     } catch (IOException Ex) {
-    
+
         Console.Writeline($"Unable to save. Error follows{Environment.NewLine}{Ex}");
-        
+
         return false;
-        
+
     }
-    
+
     return true;
-    
+
 }
 {% endhighlight %}
 
 #### &#9632; MathJax
 
-$$ \int{\left(\frac{1}{x-1}\right)} = \ln{\left|x-1\right|} + c, x > 1 $$  
+$$ \int{\left(\frac{1}{x-1}\right)} = \ln{\left|x-1\right|} + c, x > 1 $$
 
-$$ x_{n+1} = x_{n} - \frac{f\left(x_{n}\right)}{f`\left(x_{n}\right)}$$  
+$$ x_{n+1} = x_{n} - \frac{f\left(x_{n}\right)}{f`\left(x_{n}\right)}$$
 
 #### &#9632; Images
 
@@ -68,21 +68,21 @@ This site is built on Jekyll, so it supports markdown syntax such as *italics*, 
 as well as `Keyboard Shortcuts` and
 
 ```xml
-<CodeBlock> 
+<CodeBlock>
     <Highlighting>
         this.
     </Highlighting>
 </CodeBlock>
-``` 
+```
 
 But I'll probably just use the code blocks from earlier because they look nicer.
 
 Markdown also supports different headings using `#`s , and block quotes using `>`.
 
-> "Everybody is a genius.  
-> But if you judge a fish by it's ability to climb a tree,  
-> it will spend its whole life believing it is stupid"  
-> 
+> "Everybody is a genius.
+> But if you judge a fish by it's ability to climb a tree,
+> it will spend its whole life believing it is stupid"
+>
 >   &#9472; Albert Einstein
 
 -----
