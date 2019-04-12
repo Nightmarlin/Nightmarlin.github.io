@@ -1,3 +1,8 @@
+---
+title: NTTKR - Analysis 
+categories: Code
+---
+
 # NTTKR Goes Forth - Analysis
 
 1. Haha I forgot I had this blog. Oops
